@@ -2577,3 +2577,54 @@ Make sure 'BPC_ControllerBase_C' has been compiled for  Get SavedRotator
 [2024.02.07-13.38.39:104][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
 [2024.02.07-13.38.39:140][188]LogPlayLevel: Display: Destroying online subsystem :Context_26
 [2024.02.07-13.40.00:632][402]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/OurCharacters/IA/IA_Dash.IA_Dash
+[2024.02.07-13.44.51:667][875]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/OurCharacters/IA/IA_Dash.IA_Dash
+[2024.02.07-13.45.11:618][144]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/ThirdPerson/Input/IMC_Default.IMC_Default
+[2024.02.07-13.46.09:120][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.02.07-13.46.12:042][823]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.07-13.46.12:069][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.02.07-13.46.12:087][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.02.07-13.46.12:100][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.02.07-13.46.26:431][481]Cmd: TRANSACTION UNDO
+[2024.02.07-13.46.26:431][481]LogEditorTransaction: Undo Add Action Mapping
+[2024.02.07-13.46.51:149][289]LogDerivedDataCache: C:/Users/RatonFuté/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:12.166 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6749 files in 8636 folders with total size 738 MiB.
+[2024.02.07-13.47.27:571][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.02.07-13.47.27:573][385]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.018
+[2024.02.07-13.47.27:573][385]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Input/IMC_Default] ([1] browsable assets)...
+[2024.02.07-13.47.27:573][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Input/IMC_Default]
+[2024.02.07-13.47.27:576][385]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Input/IMC_Default_Auto2
+[2024.02.07-13.47.27:576][385]LogSavePackage: Moving 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Saved/IMC_Default_Auto2FAFDC4064A619E5255B512A6B6650952.tmp' to 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Saved/Autosaves/Game/ThirdPerson/Input/IMC_Default_Auto2.uasset'
+[2024.02.07-13.47.27:576][385]LogFileHelpers: Auto-saving content packages took 0.003
+[2024.02.07-13.49.44:637][850]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2024.02.07-13.49.44:656][850]LogContentBrowser: Creating deferred item: NewInputAction
+[2024.02.07-13.49.44:671][851]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2024.02.07-13.50.49:292][374]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_
+[2024.02.07-13.50.49:293][374]LogContentBrowser: End creating deferred item NewInputAction
+[2024.02.07-13.51.16:034][815]LogContentBrowser: Attempting asset rename: IA_ -> IA_Skill
+[2024.02.07-13.51.16:108][815]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-13.51.16:138][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OurCharacters/IA/IA_Skill" FILE="C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/OurCharacters/IA/IA_Skill.uasset" SILENT=true
+[2024.02.07-13.51.16:139][815]LogSavePackage: Moving output files for package: /Game/OurCharacters/IA/IA_Skill
+[2024.02.07-13.51.16:139][815]LogSavePackage: Moving 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Saved/IA_SkillF55DA2534D83787DAEB3F095DA17412E.tmp' to 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/OurCharacters/IA/IA_Skill.uasset'
+[2024.02.07-13.51.16:145][815]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 1.72 sec)
+[2024.02.07-13.51.16:166][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.02.07-13.51.16:185][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.02.07-13.51.16:205][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.02.07-13.51.16:208][815]AssetCheck: New page: Asset Save: IA_Skill
+[2024.02.07-13.51.16:208][815]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/OurCharacters/IA/IA_Skill.IA_Skill
+[2024.02.07-13.51.35:961][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-13.51.35:990][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Input/IMC_Default" FILE="C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/ThirdPerson/Input/IMC_Default.uasset" SILENT=true
+[2024.02.07-13.51.35:992][ 32]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Input/IMC_Default
+[2024.02.07-13.51.35:993][ 32]LogSavePackage: Moving 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Saved/IMC_Default82FD4A2D4343EC26BA36E9B3BD9B4821.tmp' to 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/ThirdPerson/Input/IMC_Default.uasset'
+[2024.02.07-13.51.35:997][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 1.75 sec)
+[2024.02.07-13.51.35:999][ 32]AssetCheck: New page: Asset Save: IMC_Default
+[2024.02.07-13.51.35:999][ 32]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/ThirdPerson/Input/IMC_Default.IMC_Default
+[2024.02.07-13.51.59:408][827]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-13.51.59:461][827]LogSavePackage: Moving output files for package: /Game/OurCharacters/Controllers/BPC_ControllerBase
+[2024.02.07-13.51.59:461][827]LogSavePackage: Moving 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Saved/BPC_ControllerBaseF962C8E146B60A071093729385F66FCB.tmp' to 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/OurCharacters/Controllers/BPC_ControllerBase.uasset'
+[2024.02.07-13.51.59:468][827]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 1.81 sec)
+[2024.02.07-13.51.59:470][827]AssetCheck: New page: Asset Save: BPC_ControllerBase
+[2024.02.07-13.51.59:470][827]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/OurCharacters/Controllers/BPC_ControllerBase.BPC_ControllerBase
+[2024.02.07-13.52.07:244][745]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.07-13.52.07:244][745]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-13.52.07:244][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-13.53.40:250][782]BlueprintLog: New page: Compile BPC_CharacterHugo
+[2024.02.07-13.53.40:287][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
