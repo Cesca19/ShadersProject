@@ -1,0 +1,49 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/Gamemodes/BPC_Gamemode.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/Components/BPC_HealthComponent.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/OurCharacters/BPC_CharacterBase.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/Actors/Towers/BP_TowerBase.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/Actors/Towers/BP_Tower.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/T4/QI3SPIU81EG2K96ZPNOL81.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/SM_MatPreviewMesh_01.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/Actors/Enemies/BP_EnemyBase.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/6P/O4MU7PRPS2QSUR94WJKUB8.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/OK/9TBWS9T6K5DLBKPXQOUUR6.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/Actors/Enemies/BP_Gobelin.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/Animations/Enemies/BS_Gobelin.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/KP/X6GGK4BUN7D36W9YVO4IP7.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/L1/WOWYVJ0JBAX5S68P8N3T1O.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/6C/37170VZGDBD7E5194E0B5N.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/Animations/Enemies/ABP_Gobelin.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/ThirdParty/UndeadPack/EnemyGoblin/Animations/Anim_Attack1.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/51/A6W5YGH3FEZTVW6B6CDYOP.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/D9/K8WSTBQM6G46VUIGLYR9UC.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/HI/K5WCABHJYRFCCKVPXSBSDF.uasset",
+				"F:/UE Projects/ShadersProject/ShadersProject/Content/Gamemodes/BPC_Gamemode.uasset",
+				"F:/UE Projects/ShadersProject/ShadersProject/Content/OurCharacters/BPC_Character.uasset",
+				"F:/UE Projects/ShadersProject/ShadersProject/Content/OurCharacters/BPC_CharacterBase.uasset",
+				"F:/UE Projects/ShadersProject/ShadersProject/Content/OurCharacters/Controllers/BPC_ControllerBase.uasset",
+				"F:/UE Projects/ShadersProject/ShadersProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"F:/UE Projects/ShadersProject/ShadersProject/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"F:/UE Projects/ShadersProject/ShadersProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter1.uasset",
+				"F:/UE Projects/ShadersProject/ShadersProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"F:/UE Projects/ShadersProject/ShadersProject/Content/OurCharacters/BPC_CharacterTom.uasset",
+				"F:/UE Projects/ShadersProject/ShadersProject/Content/OurCharacters/IMC/IMC_GameDefault.uasset",
+				"F:/UE Projects/ShadersProject/ShadersProject/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"F:/UE Projects/ShadersProject/ShadersProject/Content/OurCharacters/BPC_CharacterFran.uasset",
+				"F:/UE Projects/ShadersProject/ShadersProject/Content/OurCharacters/IA/IA_Dash.uasset",
+				"F:/UE Projects/ShadersProject/ShadersProject/Content/OurCharacters/IMC/IMC_Shooting.uasset",
+				"F:/UE Projects/ShadersProject/ShadersProject/Content/OurCharacters/BPC_CharacterTest.uasset",
+				"F:/UE Projects/ShadersProject/ShadersProject/Content/Components/BPC_HealthComponent.uasset"
+			]
+		}
+	]
+}
