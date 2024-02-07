@@ -5,6 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/Gamemodes/BPC_Gamemode.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/Components/BPC_HealthComponent.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/OurCharacters/BPC_CharacterBase.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/Actors/Towers/BP_TowerBase.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/Actors/Towers/BP_Tower.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/T4/QI3SPIU81EG2K96ZPNOL81.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/SM_MatPreviewMesh_01.uasset",
 				"F:/UE Projects/ShadersProject/ShadersProject/Content/Gamemodes/BPC_Gamemode.uasset",
 				"F:/UE Projects/ShadersProject/ShadersProject/Content/OurCharacters/BPC_Character.uasset",
 				"F:/UE Projects/ShadersProject/ShadersProject/Content/OurCharacters/BPC_CharacterBase.uasset",
@@ -20,8 +29,7 @@
 				"F:/UE Projects/ShadersProject/ShadersProject/Content/OurCharacters/IA/IA_Dash.uasset",
 				"F:/UE Projects/ShadersProject/ShadersProject/Content/OurCharacters/IMC/IMC_Shooting.uasset",
 				"F:/UE Projects/ShadersProject/ShadersProject/Content/OurCharacters/BPC_CharacterTest.uasset",
-				"F:/UE Projects/ShadersProject/ShadersProject/Content/Components/BPC_HealthComponent.uasset",
-				"C:/Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+				"F:/UE Projects/ShadersProject/ShadersProject/Content/Components/BPC_HealthComponent.uasset"
 			]
 		}
 	]
