@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Bella/OneDrive/Documents/Unreal Projects/ShadersProject/ShadersProject/Content/OurCharacters/BPC_CharacterVy.uasset",
+				"C:/Users/Bella/OneDrive/Documents/Unreal Projects/ShadersProject/ShadersProject/Content/OurCharacters/IMC/IMC_GameDefault.uasset",
+				"C:/Users/Bella/OneDrive/Documents/Unreal Projects/ShadersProject/ShadersProject/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"C:/Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
 				"C:/Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/Gamemodes/BPC_Gamemode.uasset",
 				"C:/Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/Components/BPC_HealthComponent.uasset",
