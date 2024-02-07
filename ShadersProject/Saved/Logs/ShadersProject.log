@@ -14126,3 +14126,48 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.02.07-23.21.30:935][331]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
 [2024.02.07-23.21.30:944][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
 [2024.02.07-23.21.30:998][332]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.02.07-23.22.37:108][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.02.07-23.22.37:111][682]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/KK/7IGMEOEUHAQLHT785W3AAO_Auto2
+[2024.02.07-23.22.37:111][682]LogSavePackage: Moving '../../../../../../Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Saved/7IGMEOEUHAQLHT785W3AAO_Auto2876A14254100B12FD9ABF2AEBE3D085A.tmp' to '../../../../../../Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/KK/7IGMEOEUHAQLHT785W3AAO_Auto2.uasset'
+[2024.02.07-23.22.37:112][682]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/15/04OZ82CX6D3AYTP7Z7VMHY_Auto2
+[2024.02.07-23.22.37:112][682]LogSavePackage: Moving '../../../../../../Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Saved/04OZ82CX6D3AYTP7Z7VMHY_Auto273364F9A4F9E4A48F2CD6BA43C49B3A7.tmp' to '../../../../../../Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/15/04OZ82CX6D3AYTP7Z7VMHY_Auto2.uasset'
+[2024.02.07-23.22.37:114][682]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/8Y/O4FPOHSD4CQ226538DDCVK_Auto2
+[2024.02.07-23.22.37:114][682]LogSavePackage: Moving '../../../../../../Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Saved/O4FPOHSD4CQ226538DDCVK_Auto2C45DB3CC4623E444E2E005B9521B0EC2.tmp' to '../../../../../../Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/8Y/O4FPOHSD4CQ226538DDCVK_Auto2.uasset'
+[2024.02.07-23.22.37:115][682]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/3M/WKIL4BZ9L9DOKDK175DKYV_Auto2
+[2024.02.07-23.22.37:115][682]LogSavePackage: Moving '../../../../../../Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Saved/WKIL4BZ9L9DOKDK175DKYV_Auto2A1347C8141DA7EA8DE20C0B1A9DCC153.tmp' to '../../../../../../Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/3M/WKIL4BZ9L9DOKDK175DKYV_Auto2.uasset'
+[2024.02.07-23.22.37:116][682]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.019
+[2024.02.07-23.22.37:116][682]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.019
+[2024.02.07-23.22.37:116][682]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Actors/Enemies/BP_EnemiesSpawner] ([2] browsable assets)...
+[2024.02.07-23.22.37:116][682]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actors/Enemies/BP_EnemiesSpawner]
+[2024.02.07-23.22.37:122][682]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Actors/Enemies/BP_EnemiesSpawner_Auto2
+[2024.02.07-23.22.37:122][682]LogSavePackage: Moving '../../../../../../Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Saved/BP_EnemiesSpawner_Auto293B5071F48E12D1F78ABAEAA59FBFB6C.tmp' to '../../../../../../Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Saved/Autosaves/Game/Actors/Enemies/BP_EnemiesSpawner_Auto2.uasset'
+[2024.02.07-23.22.37:123][682]LogFileHelpers: Auto-saving content packages took 0.007
+[2024.02.07-23.23.05:316][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.02.07-23.23.11:527][940]LogSlate: Window 'Save Content' being destroyed
+[2024.02.07-23.23.12:935][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.02.07-23.23.14:129][ 17]LogSlate: Window 'Save Content' being destroyed
+[2024.02.07-23.23.14:823][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-23.23.15:140][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.02.07-23.23.15:151][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.02.07-23.23.15:164][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.02.07-23.23.15:537][ 17]SourceControl: Error: Updated 0 paths from the index
+[2024.02.07-23.23.15:862][ 17]SourceControl: rm 'ShadersProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FJ/7QH6I9QHDGXFA477CM1G8T.uasset'
+[2024.02.07-23.23.15:862][ 17]SourceControl: rm 'ShadersProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/X6/2KK0EK4LVPTRXMKGDYA0DQ.uasset'
+[2024.02.07-23.23.15:862][ 17]SourceControl: rm 'ShadersProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/51/A6W5YGH3FEZTVW6B6CDYOP.uasset'
+[2024.02.07-23.23.15:876][ 17]LogSavePackage: Moving output files for package: /Game/Actors/Enemies/BP_EnemiesSpawner
+[2024.02.07-23.23.15:877][ 17]LogSavePackage: Moving '../../../../../../Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Saved/BP_EnemiesSpawnerD7A93E33425D9E35DABFCCA3868934DF.tmp' to '../../../../../../Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/Actors/Enemies/BP_EnemiesSpawner.uasset'
+[2024.02.07-23.23.15:879][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/15/04OZ82CX6D3AYTP7Z7VMHY
+[2024.02.07-23.23.15:879][ 17]LogSavePackage: Moving '../../../../../../Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Saved/04OZ82CX6D3AYTP7Z7VMHY5D7AA210412DC1D9F6FA24AA24004E09.tmp' to '../../../../../../Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/15/04OZ82CX6D3AYTP7Z7VMHY.uasset'
+[2024.02.07-23.23.15:880][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/KK/7IGMEOEUHAQLHT785W3AAO
+[2024.02.07-23.23.15:880][ 17]LogSavePackage: Moving '../../../../../../Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Saved/7IGMEOEUHAQLHT785W3AAO16A298A94C96865B514E188B8E61C626.tmp' to '../../../../../../Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/KK/7IGMEOEUHAQLHT785W3AAO.uasset'
+[2024.02.07-23.23.15:882][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/8Y/O4FPOHSD4CQ226538DDCVK
+[2024.02.07-23.23.15:882][ 17]LogSavePackage: Moving '../../../../../../Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Saved/O4FPOHSD4CQ226538DDCVK9C2747044D081C03C0190381ECE15EC1.tmp' to '../../../../../../Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/8Y/O4FPOHSD4CQ226538DDCVK.uasset'
+[2024.02.07-23.23.15:884][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/3M/WKIL4BZ9L9DOKDK175DKYV
+[2024.02.07-23.23.15:884][ 17]LogSavePackage: Moving '../../../../../../Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Saved/WKIL4BZ9L9DOKDK175DKYVD5753B13450A903CC3668FB7CA031664.tmp' to '../../../../../../Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/3M/WKIL4BZ9L9DOKDK175DKYV.uasset'
+[2024.02.07-23.23.16:297][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.47 sec (total: 2.69 sec)
+[2024.02.07-23.23.16:306][ 17]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.07-23.23.16:307][ 17]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Enemies/BP_EnemiesSpawner.BP_EnemiesSpawner
+[2024.02.07-23.23.16:307][ 17]LogContentValidation: Display: Validating /Game/Actors/Enemies/BP_EnemiesSpawner.BP_EnemiesSpawner_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemiesSpawner_C_UAID_04BF1B869FBF2BD701_1279447767
+[2024.02.07-23.23.16:307][ 17]LogContentValidation: Display: Validating /Game/Actors/Enemies/BP_EnemiesSpawner.BP_EnemiesSpawner_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemiesSpawner_C_UAID_04BF1B869FBF2BD701_1293253768
+[2024.02.07-23.23.16:307][ 17]LogContentValidation: Display: Validating /Game/Actors/Enemies/BP_EnemiesSpawner.BP_EnemiesSpawner_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemiesSpawner_C_UAID_04BF1B869FBF2BD701_1305801769
+[2024.02.07-23.23.16:307][ 17]LogContentValidation: Display: Validating /Game/Actors/Enemies/BP_EnemiesSpawner.BP_EnemiesSpawner_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemiesSpawner_C_UAID_04BF1B869FBF2CD701_1173574946
