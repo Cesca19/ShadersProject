@@ -1199,3 +1199,1432 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.07-12.48.24:046][555]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.02.07-12.48.24:046][555]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2024.02.07-12.48.24:172][556]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.02.07-12.55.14:134][931]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.02.07-12.56.39:785][138]LogSlate: External Image Picker: DecompressImage failed
+[2024.02.07-12.57.38:885][187]LogSlate: Window 'Project Settings' being destroyed
+[2024.02.07-12.57.38:894][187]LogSlate: Window 'Project Settings' being destroyed
+[2024.02.07-12.58.21:057][131]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/OurCharacters/BPC_CharacterBase.BPC_CharacterBase
+[2024.02.07-12.58.21:058][131]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-12.58.21:058][131]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.07-13.00.49:868][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-13.00.49:955][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OurCharacters/BPC_CharacterHugo" FILE="C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/OurCharacters/BPC_CharacterHugo.uasset" SILENT=true
+[2024.02.07-13.00.49:979][ 12]LogSavePackage: Moving output files for package: /Game/OurCharacters/BPC_CharacterHugo
+[2024.02.07-13.00.49:980][ 12]LogSavePackage: Moving 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Saved/BPC_CharacterHugo4289CFF841A2E05C7A7F64AF8F477CEA.tmp' to 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/OurCharacters/BPC_CharacterHugo.uasset'
+[2024.02.07-13.00.49:985][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 189 ms)
+[2024.02.07-13.00.49:986][ 12]AssetCheck: New page: Asset Save: BPC_CharacterHugo
+[2024.02.07-13.00.49:986][ 12]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/OurCharacters/BPC_CharacterHugo.BPC_CharacterHugo
+[2024.02.07-13.00.53:340][410]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-13.00.53:360][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OurCharacters/BPC_CharacterHugo" FILE="C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/OurCharacters/BPC_CharacterHugo.uasset" SILENT=true
+[2024.02.07-13.00.53:364][410]LogSavePackage: Moving output files for package: /Game/OurCharacters/BPC_CharacterHugo
+[2024.02.07-13.00.53:365][410]LogSavePackage: Moving 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Saved/BPC_CharacterHugo7067EAB04863439352895395B3A48C17.tmp' to 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/OurCharacters/BPC_CharacterHugo.uasset'
+[2024.02.07-13.00.53:370][410]LogFileHelpers: InternalPromptForCheckoutAndSave took 30 ms (total: 219 ms)
+[2024.02.07-13.00.53:372][410]AssetCheck: New page: Asset Save: BPC_CharacterHugo
+[2024.02.07-13.00.53:372][410]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/OurCharacters/BPC_CharacterHugo.BPC_CharacterHugo
+[2024.02.07-13.01.02:397][477]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-13.01.02:424][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OurCharacters/BPC_CharacterHugo" FILE="C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/OurCharacters/BPC_CharacterHugo.uasset" SILENT=true
+[2024.02.07-13.01.02:430][477]LogSavePackage: Moving output files for package: /Game/OurCharacters/BPC_CharacterHugo
+[2024.02.07-13.01.02:430][477]LogSavePackage: Moving 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Saved/BPC_CharacterHugo9FF7AF2F4CC55BF116DEA8B8A7A6E906.tmp' to 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/OurCharacters/BPC_CharacterHugo.uasset'
+[2024.02.07-13.01.02:436][477]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 258 ms)
+[2024.02.07-13.01.02:437][477]AssetCheck: New page: Asset Save: BPC_CharacterHugo
+[2024.02.07-13.01.02:437][477]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/OurCharacters/BPC_CharacterHugo.BPC_CharacterHugo
+[2024.02.07-13.01.04:384][706]BlueprintLog: New page: Compile BPC_CharacterHugo
+[2024.02.07-13.01.04:483][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.02.07-13.01.11:409][526]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-13.01.11:442][526]LogSavePackage: Moving output files for package: /Game/OurCharacters/Controllers/BPC_ControllerHugo
+[2024.02.07-13.01.11:443][526]LogSavePackage: Moving 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Saved/BPC_ControllerHugo763CD45E4941814DFEA2EBBAAB94FAB1.tmp' to 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/OurCharacters/Controllers/BPC_ControllerHugo.uasset'
+[2024.02.07-13.01.11:449][526]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 298 ms)
+[2024.02.07-13.01.11:451][526]AssetCheck: New page: Asset Save: BPC_ControllerHugo
+[2024.02.07-13.01.11:451][526]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/OurCharacters/Controllers/BPC_ControllerHugo.BPC_ControllerHugo
+[2024.02.07-13.01.47:081][429]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.07-13.01.47:108][429]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.07-13.01.47:108][429]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.02.07-13.01.47:127][429]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 18 ms
+[2024.02.07-13.01.47:153][429]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.07-13.01.47:179][429]PIE: New page: PIE session: ThirdPersonMap (7 févr. 2024 à 15:01:47)
+[2024.02.07-13.01.47:194][429]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.02.07-13.01.47:194][429]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.02.07-13.01.47:209][429]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.02.07-13.01.47:215][429]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005987s)
+[2024.02.07-13.01.47:215][429]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006058s)
+[2024.02.07-13.01.47:227][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.02.07-13.01.47:229][429]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-13.01.47:229][429]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.07-13.01.47:230][429]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.02.07-13.01.47:230][429]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.07-13.01.47:230][429]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.07-13.01.47:230][429]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.07-13.01.47:230][429]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.02.07-13.01.47:232][429]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.02.07-13.01.47:232][429]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 109 ms)
+[2024.02.07-13.01.47:246][429]LogPlayLevel: PIE: World Init took: (0.017245s)
+[2024.02.07-13.01.47:246][429]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.02.07-13.01.47:247][429]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.07-13.01.47:247][429]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.07-13.01.47:247][429]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.07-13.01.47:247][429]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.07-13.01.47:247][429]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.07-13.01.47:247][429]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.07-13.01.47:247][429]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.07-13.01.47:247][429]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.07-13.01.47:247][429]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.07-13.01.47:247][429]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.07-13.01.47:247][429]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.07-13.01.47:249][429]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.07-13.01.47:308][429]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (4- Realtek(R) Audio)
+[2024.02.07-13.01.47:308][429]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.07-13.01.47:308][429]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.07-13.01.47:308][429]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.07-13.01.47:309][429]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.02.07-13.01.47:309][429]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.02.07-13.01.47:311][429]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.02.07-13.01.47:311][429]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.02.07-13.01.47:311][429]LogInit: FAudioDevice initialized with ID 2.
+[2024.02.07-13.01.47:311][429]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2024.02.07-13.01.47:311][429]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.02.07-13.01.47:353][429]LogLoad: Game class is 'BPC_Gamemode_C'
+[2024.02.07-13.01.47:355][429]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.02.07-14.01.47
+[2024.02.07-13.01.47:355][429]LogWorld: Bringing up level for play took: 0.001647
+[2024.02.07-13.01.47:357][429]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.02.07-13.01.47:545][429]PIE: Server logged in
+[2024.02.07-13.01.47:546][429]PIE: Play in editor total start time 0,458 seconds.
+[2024.02.07-13.01.53:289][ 18]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.07-13.01.53:289][ 18]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.02.07-13.01.53:289][ 18]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-13.01.53:289][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-13.01.53:289][ 18]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.02.07-13.01.53:292][ 18]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.07-13.01.53:296][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-13.01.53:322][ 18]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.07-13.01.53:323][ 18]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.02.07-13.01.53:323][ 18]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.02.07-13.01.53:324][ 18]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.02.07-13.01.53:328][ 18]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.07-13.01.53:342][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.02.07-13.01.53:368][ 19]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.02.07-13.02.00:862][849]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/OurCharacters/IMC/IMC_GameDefault.IMC_GameDefault
+[2024.02.07-13.02.02:519][984]LogSlate: Window 'IMC_GameDefault' being destroyed
+[2024.02.07-13.02.46:533][898]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/OurCharacters/BPC_CharacterTom.BPC_CharacterTom
+[2024.02.07-13.02.46:533][898]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-13.02.46:534][898]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.07-13.02.47:320][937]LogShaderCompilers: Display: ================================================
+[2024.02.07-13.02.47:320][937]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.07-13.02.47:320][937]LogShaderCompilers: Display: Total job queries 36, among them cache hits 0 (0.00%)
+[2024.02.07-13.02.47:320][937]LogShaderCompilers: Display: Tracking 22 distinct input hashes that result in 16 distinct outputs (72.73%)
+[2024.02.07-13.02.47:320][937]LogShaderCompilers: Display: RAM used: 489,24 KiB of 1,60 GiB budget. Usage: 0.03%
+[2024.02.07-13.02.47:320][937]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.07-13.02.47:320][937]LogShaderCompilers: Display: Shaders Compiled: 22
+[2024.02.07-13.02.47:320][937]LogShaderCompilers: Display: Jobs assigned 30, completed 22 (73.33%)
+[2024.02.07-13.02.47:320][937]LogShaderCompilers: Display: Average time worker was idle: 321.08 s
+[2024.02.07-13.02.47:320][937]LogShaderCompilers: Display: Time job spent in pending queue: average 0.26 s, longest 0.99 s
+[2024.02.07-13.02.47:320][937]LogShaderCompilers: Display: Job execution time: average 0.56 s, max 1.08 s
+[2024.02.07-13.02.47:320][937]LogShaderCompilers: Display: Job life time (pending + execution): average 0.84 s, max 1.51
+[2024.02.07-13.02.47:320][937]LogShaderCompilers: Display: Shader code size: average 34,161 KiB, min 4,465 KiB, max 45,199 KiB
+[2024.02.07-13.02.47:320][937]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.79 s
+[2024.02.07-13.02.47:320][937]LogShaderCompilers: Display: Jobs were issued in 30 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.02.07-13.02.47:320][937]LogShaderCompilers: Display: Average processing rate: 7.88 jobs/sec
+[2024.02.07-13.02.47:320][937]LogShaderCompilers: Display: Total thread time: 7,062 s
+[2024.02.07-13.02.47:320][937]LogShaderCompilers: Display: Total thread preprocess time: 0,811 s
+[2024.02.07-13.02.47:320][937]LogShaderCompilers: Display: Percentage time preprocessing: 11.49%
+[2024.02.07-13.02.47:320][937]LogShaderCompilers: Display: Effective parallelization: 2.53 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.02.07-13.02.47:320][937]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.07-13.02.47:320][937]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 0.50 sec, max 0.50 sec, min 0.49 sec)
+[2024.02.07-13.02.47:320][937]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    2 times, average 0.43 sec, max 0.48 sec, min 0.37 sec)
+[2024.02.07-13.02.47:320][937]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    2 times, average 0.42 sec, max 0.44 sec, min 0.40 sec)
+[2024.02.07-13.02.47:320][937]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.35 sec, max 0.52 sec, min 0.23 sec)
+[2024.02.07-13.02.47:320][937]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.31 sec, max 0.44 sec, min 0.20 sec)
+[2024.02.07-13.02.47:320][937]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.07-13.02.47:320][937]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.89% of total time (compiled    4 times, average 0.35 sec, max 0.52 sec, min 0.23 sec)
+[2024.02.07-13.02.47:320][937]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.55% of total time (compiled    4 times, average 0.31 sec, max 0.44 sec, min 0.20 sec)
+[2024.02.07-13.02.47:320][937]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 14.03% of total time (compiled    2 times, average 0.50 sec, max 0.50 sec, min 0.49 sec)
+[2024.02.07-13.02.47:320][937]LogShaderCompilers: Display:                                                  FHitProxyVS - 12.08% of total time (compiled    2 times, average 0.43 sec, max 0.48 sec, min 0.37 sec)
+[2024.02.07-13.02.47:320][937]LogShaderCompilers: Display:                                                  FVelocityVS - 11.90% of total time (compiled    2 times, average 0.42 sec, max 0.44 sec, min 0.40 sec)
+[2024.02.07-13.02.47:320][937]LogShaderCompilers: Display: ================================================
+[2024.02.07-13.04.01:450][916]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.07-13.04.01:458][916]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.07-13.04.01:458][916]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.02.07-13.04.01:460][916]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 20 ms)
+[2024.02.07-13.04.01:460][916]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.07-13.04.01:460][916]PIE: New page: PIE session: ThirdPersonMap (7 févr. 2024 à 15:04:01)
+[2024.02.07-13.04.01:460][916]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.02.07-13.04.01:467][916]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006418s)
+[2024.02.07-13.04.01:467][916]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006452s)
+[2024.02.07-13.04.01:482][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.02.07-13.04.01:486][916]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-13.04.01:486][916]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.07-13.04.01:486][916]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.02.07-13.04.01:487][916]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.07-13.04.01:487][916]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.07-13.04.01:487][916]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.07-13.04.01:487][916]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.02.07-13.04.01:488][916]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.02.07-13.04.01:488][916]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 111 ms)
+[2024.02.07-13.04.01:488][916]LogPlayLevel: PIE: World Init took: (0.002814s)
+[2024.02.07-13.04.01:488][916]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.02.07-13.04.01:488][916]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.07-13.04.01:488][916]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.07-13.04.01:489][916]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.07-13.04.01:489][916]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.07-13.04.01:489][916]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.07-13.04.01:489][916]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.07-13.04.01:489][916]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.07-13.04.01:489][916]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.07-13.04.01:489][916]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.07-13.04.01:489][916]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.07-13.04.01:489][916]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.07-13.04.01:491][916]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.07-13.04.01:549][916]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (4- Realtek(R) Audio)
+[2024.02.07-13.04.01:550][916]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.07-13.04.01:550][916]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.07-13.04.01:550][916]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.07-13.04.01:551][916]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.02.07-13.04.01:551][916]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.02.07-13.04.01:552][916]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.02.07-13.04.01:552][916]LogInit: FAudioDevice initialized with ID 3.
+[2024.02.07-13.04.01:552][916]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.02.07-13.04.01:552][916]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2024.02.07-13.04.01:552][916]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.02.07-13.04.01:554][916]LogLoad: Game class is 'BPC_Gamemode_C'
+[2024.02.07-13.04.01:556][916]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.02.07-14.04.01
+[2024.02.07-13.04.01:557][916]LogWorld: Bringing up level for play took: 0.001700
+[2024.02.07-13.04.01:558][916]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.02.07-13.04.01:562][916]PIE: Server logged in
+[2024.02.07-13.04.01:562][916]PIE: Play in editor total start time 0,105 seconds.
+[2024.02.07-13.04.15:623][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.07-13.04.15:623][476]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.02.07-13.04.15:623][476]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-13.04.15:624][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-13.04.15:625][476]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.02.07-13.04.15:628][476]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.07-13.04.15:632][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-13.04.15:643][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.07-13.04.15:644][476]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.02.07-13.04.15:644][476]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.02.07-13.04.15:646][476]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.02.07-13.04.15:653][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.02.07-13.04.15:680][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-13.04.15:683][477]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.02.07-13.04.15:715][477]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.02.07-13.04.15:723][477]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.02.07-13.04.15:733][478]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.02.07-13.04.28:709][816]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.02.07-13.04.32:451][222]LogViewport: Scene viewport resized to 1579x1011, mode Windowed.
+[2024.02.07-13.04.54:886][541]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Gamemodes/BPC_Gamemode.BPC_Gamemode
+[2024.02.07-13.04.54:887][541]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-13.04.54:887][541]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.07-13.04.56:893][756]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-13.04.56:893][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-13.04.56:913][756]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Gamemodes/BPC_Gamemode.BPC_Gamemode
+[2024.02.07-13.04.56:913][756]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-13.04.56:914][756]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.07-13.04.59:142][961]LogViewport: Scene viewport resized to 1579x1011, mode Windowed.
+[2024.02.07-13.05.10:412][289]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-13.05.10:412][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-13.05.21:322][401]LogSlate: Took 0.002867 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.02.07-13.07.29:304][465]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.02.07-13.07.33:667][799]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-13.07.33:747][800]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-13.07.34:203][833]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ThirdPersonMap
+[2024.02.07-13.07.34:203][833]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-13.07.34:203][833]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.07-13.07.34:485][834]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.02.07-13.09.27:285][619]LogEditorTransaction: Undo Delete current selection
+[2024.02.07-13.09.27:474][624]LogEditorTransaction: Undo Delete current selection
+[2024.02.07-13.09.44:452][802]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-13.09.44:534][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.02.07-13.09.44:561][802]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.02.07-13.09.44:561][802]LogSavePackage: Moving 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Saved/ThirdPersonMap7E72733C4FCB44B9CFD7518050EB4037.tmp' to 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2024.02.07-13.09.44:568][802]LogFileHelpers: All files are already saved.
+[2024.02.07-13.09.44:568][802]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.086
+[2024.02.07-13.09.44:576][802]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 421 ms)
+[2024.02.07-13.09.44:578][802]AssetCheck: New page: Asset Save: ThirdPersonMap
+[2024.02.07-13.09.44:578][802]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.02.07-13.09.53:143][465]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-13.09.53:213][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.02.07-13.09.53:237][465]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.02.07-13.09.53:238][465]LogSavePackage: Moving 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Saved/ThirdPersonMap975338E9456FF7BADA5930B49FC4FDBA.tmp' to 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2024.02.07-13.09.53:243][465]LogFileHelpers: All files are already saved.
+[2024.02.07-13.09.53:244][465]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.075
+[2024.02.07-13.09.53:251][465]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 529 ms)
+[2024.02.07-13.09.53:254][465]AssetCheck: New page: Asset Save: ThirdPersonMap
+[2024.02.07-13.09.53:254][465]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.02.07-13.09.54:812][588]BlueprintLog: New page: Compile ThirdPersonMap
+[2024.02.07-13.09.54:848][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.02.07-13.09.56:637][729]LogSlate: Window 'ThirdPersonMap' being destroyed
+[2024.02.07-13.09.58:265][903]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.07-13.09.58:272][903]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.07-13.09.58:272][903]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.02.07-13.09.58:274][903]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 23 ms)
+[2024.02.07-13.09.58:274][903]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.07-13.09.58:274][903]PIE: New page: PIE session: ThirdPersonMap (7 févr. 2024 à 15:09:58)
+[2024.02.07-13.09.58:296][903]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.02.07-13.09.58:303][903]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006479s)
+[2024.02.07-13.09.58:303][903]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006513s)
+[2024.02.07-13.09.58:318][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.02.07-13.09.58:321][903]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-13.09.58:321][903]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.07-13.09.58:321][903]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.02.07-13.09.58:322][903]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.07-13.09.58:322][903]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.07-13.09.58:322][903]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.07-13.09.58:322][903]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.02.07-13.09.58:324][903]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.02.07-13.09.58:324][903]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 113 ms)
+[2024.02.07-13.09.58:324][903]LogPlayLevel: PIE: World Init took: (0.003282s)
+[2024.02.07-13.09.58:324][903]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.02.07-13.09.58:324][903]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.07-13.09.58:324][903]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.07-13.09.58:324][903]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.07-13.09.58:324][903]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.07-13.09.58:324][903]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.07-13.09.58:324][903]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.07-13.09.58:324][903]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.07-13.09.58:324][903]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.07-13.09.58:325][903]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.07-13.09.58:325][903]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.07-13.09.58:325][903]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.07-13.09.58:326][903]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.07-13.09.58:387][903]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (4- Realtek(R) Audio)
+[2024.02.07-13.09.58:387][903]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.07-13.09.58:387][903]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.07-13.09.58:387][903]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.07-13.09.58:388][903]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.02.07-13.09.58:388][903]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.02.07-13.09.58:389][903]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.02.07-13.09.58:389][903]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.02.07-13.09.58:389][903]LogInit: FAudioDevice initialized with ID 4.
+[2024.02.07-13.09.58:389][903]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonMap'.
+[2024.02.07-13.09.58:389][903]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.02.07-13.09.58:391][903]LogLoad: Game class is 'BPC_Gamemode_C'
+[2024.02.07-13.09.58:393][903]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.02.07-14.09.58
+[2024.02.07-13.09.58:394][903]LogWorld: Bringing up level for play took: 0.001683
+[2024.02.07-13.09.58:395][903]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.02.07-13.09.58:399][903]PIE: Server logged in
+[2024.02.07-13.09.58:400][903]PIE: Play in editor total start time 0,128 seconds.
+[2024.02.07-13.10.05:632][694]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 75
+[2024.02.07-13.10.05:632][694]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.05:632][694]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 50
+[2024.02.07-13.10.05:632][694]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.05:647][695]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 25
+[2024.02.07-13.10.05:647][695]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.05:647][695]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.05:647][695]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.05:647][695]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.05:868][718]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.05:868][718]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.05:868][718]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.05:868][718]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.05:868][718]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.05:868][718]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.05:876][719]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.05:876][719]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.05:877][719]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.05:877][719]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.05:877][719]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.05:877][719]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.05:885][720]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.05:885][720]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.05:885][720]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.05:885][720]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.05:885][720]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.05:885][720]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.05:894][721]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.05:894][721]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.05:894][721]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.05:894][721]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.05:894][721]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.05:894][721]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.05:904][722]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.05:904][722]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.05:904][722]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.05:904][722]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.05:904][722]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.05:904][722]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.05:913][723]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.05:913][723]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.05:913][723]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.05:913][723]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.05:913][723]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.05:913][723]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.05:920][724]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.05:921][724]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.05:921][724]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.05:921][724]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.05:921][724]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.05:921][724]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.05:930][725]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.05:930][725]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.05:930][725]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.05:930][725]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.05:930][725]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.05:930][725]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.05:938][726]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.05:938][726]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.05:938][726]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.05:938][726]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.05:938][726]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.05:938][726]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.05:946][727]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.05:946][727]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.05:946][727]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.05:946][727]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.05:946][727]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.05:946][727]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.05:954][728]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.05:954][728]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.05:954][728]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.05:954][728]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.05:955][728]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.05:955][728]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.05:965][729]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.05:965][729]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.05:965][729]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.05:965][729]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.05:965][729]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.05:965][729]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.05:974][730]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.05:974][730]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.05:974][730]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.05:974][730]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.05:974][730]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.05:974][730]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.05:982][731]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.05:982][731]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.05:982][731]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.05:982][731]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.05:982][731]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.05:982][731]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.05:990][732]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.05:990][732]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.05:991][732]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.05:991][732]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.05:991][732]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.05:991][732]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:001][733]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:001][733]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:001][733]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:001][733]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:001][733]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:001][733]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:009][734]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:009][734]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:010][734]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:010][734]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:010][734]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:010][734]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:018][735]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:018][735]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:018][735]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:018][735]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:018][735]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:018][735]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:028][736]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:028][736]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:028][736]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:028][736]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:028][736]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:028][736]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:036][737]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:036][737]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:036][737]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:036][737]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:036][737]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:036][737]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:045][738]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:045][738]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:045][738]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:045][738]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:045][738]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:045][738]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:055][739]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:055][739]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:055][739]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:055][739]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:055][739]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:055][739]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:065][740]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:065][740]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:065][740]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:065][740]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:065][740]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:065][740]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:073][741]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:073][741]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:073][741]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:073][741]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:073][741]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:073][741]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:082][742]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:082][742]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:082][742]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:082][742]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:082][742]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:082][742]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:092][743]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:092][743]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:092][743]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:092][743]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:092][743]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:092][743]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:100][744]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:100][744]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:100][744]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:100][744]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:100][744]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:100][744]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:109][745]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:109][745]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:109][745]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:109][745]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:109][745]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:109][745]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:117][746]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:117][746]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:117][746]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:117][746]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:117][746]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:117][746]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:127][747]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:127][747]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:127][747]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:127][747]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:127][747]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:127][747]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:135][748]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:135][748]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:135][748]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:135][748]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:135][748]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:135][748]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:144][749]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:144][749]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:144][749]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:144][749]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:144][749]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:144][749]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:155][750]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:155][750]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:155][750]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:155][750]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:155][750]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:155][750]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:164][751]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:164][751]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:164][751]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:164][751]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:164][751]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:164][751]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:172][752]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:172][752]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:172][752]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:172][752]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:172][752]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:172][752]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:180][753]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:180][753]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:180][753]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:180][753]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:180][753]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:180][753]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:191][754]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:191][754]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:191][754]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:191][754]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:191][754]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:191][754]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:199][755]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:199][755]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:199][755]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:199][755]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:199][755]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:199][755]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:208][756]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:208][756]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:208][756]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:208][756]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:208][756]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:208][756]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:219][757]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:219][757]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:219][757]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:219][757]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:219][757]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:219][757]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:227][758]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:227][758]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:227][758]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:227][758]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:227][758]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:227][758]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:235][759]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:235][759]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:235][759]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:235][759]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:235][759]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:235][759]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:243][760]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:243][760]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:243][760]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:243][760]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:243][760]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:243][760]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:253][761]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:253][761]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:253][761]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:278][764]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:278][764]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:278][764]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:317][768]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:317][768]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:317][768]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:317][768]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:317][768]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:317][768]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:325][769]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:325][769]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:325][769]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:325][769]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:325][769]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:325][769]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:333][770]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:334][770]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:334][770]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:334][770]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:334][770]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:334][770]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:342][771]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:342][771]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:342][771]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:342][771]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:342][771]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:342][771]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:353][772]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:353][772]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:353][772]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:353][772]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:353][772]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:353][772]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:362][773]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:362][773]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:362][773]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:362][773]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:362][773]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:362][773]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:369][774]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:369][774]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:369][774]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:369][774]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:369][774]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:369][774]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:380][775]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:380][775]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:380][775]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:380][775]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:380][775]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:380][775]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:388][776]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:388][776]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:388][776]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:388][776]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:388][776]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:388][776]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:397][777]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:397][777]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:397][777]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:405][778]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:405][778]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:405][778]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:415][779]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:415][779]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:415][779]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:424][780]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:424][780]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:424][780]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:432][781]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:432][781]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:432][781]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.06:443][782]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.10.06:443][782]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.10.06:443][782]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.10.26:731][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.07-13.10.26:731][916]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.02.07-13.10.26:731][916]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-13.10.26:732][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-13.10.26:732][916]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.02.07-13.10.26:734][916]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.07-13.10.26:739][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-13.10.26:752][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.07-13.10.26:752][916]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.02.07-13.10.26:752][916]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.02.07-13.10.26:754][916]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.02.07-13.10.26:763][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.02.07-13.10.26:794][919]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.02.07-13.10.29:051][189]LogViewport: Scene viewport resized to 1579x1011, mode Windowed.
+[2024.02.07-13.10.51:298][826]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-13.10.51:332][826]LogSavePackage: Moving output files for package: /Game/OurCharacters/Controllers/BPC_ControllerHugo
+[2024.02.07-13.10.51:333][826]LogSavePackage: Moving 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Saved/BPC_ControllerHugo179EF99A4731915D9D9D829288996307.tmp' to 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/OurCharacters/Controllers/BPC_ControllerHugo.uasset'
+[2024.02.07-13.10.51:342][826]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 572 ms)
+[2024.02.07-13.10.51:343][826]AssetCheck: New page: Asset Save: BPC_ControllerHugo
+[2024.02.07-13.10.51:343][826]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/OurCharacters/Controllers/BPC_ControllerHugo.BPC_ControllerHugo
+[2024.02.07-13.17.39:395][745]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2024.02.07-13.18.09:392][223]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-13.18.09:477][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OurCharacters/BPC_CharacterHugo" FILE="C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/OurCharacters/BPC_CharacterHugo.uasset" SILENT=true
+[2024.02.07-13.18.09:484][223]LogSavePackage: Moving output files for package: /Game/OurCharacters/BPC_CharacterHugo
+[2024.02.07-13.18.09:484][223]LogSavePackage: Moving 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Saved/BPC_CharacterHugo8148D1CE440FA86107781FAA9F749617.tmp' to 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/OurCharacters/BPC_CharacterHugo.uasset'
+[2024.02.07-13.18.09:490][223]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 670 ms)
+[2024.02.07-13.18.09:491][223]AssetCheck: New page: Asset Save: BPC_CharacterHugo
+[2024.02.07-13.18.09:491][223]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/OurCharacters/BPC_CharacterHugo.BPC_CharacterHugo
+[2024.02.07-13.18.10:126][297]BlueprintLog: New page: Compile BPC_CharacterHugo
+[2024.02.07-13.18.10:198][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.02.07-13.18.11:833][451]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.07-13.18.11:841][451]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.07-13.18.11:841][451]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.02.07-13.18.11:843][451]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 25 ms)
+[2024.02.07-13.18.11:843][451]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.02.07-13.18.11:844][451]LogPlayLevel: [PlayLevel] Compiling BPC_ControllerHugo before play...
+[2024.02.07-13.18.11:846][451]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerHugo.uasset: [Compiler] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2024.02.07-13.18.11:874][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.02.07-13.18.11:876][451]LogPlayLevel: PlayLevel: Blueprint regeneration took 33 ms (1 blueprints)
+[2024.02.07-13.18.11:876][451]BlueprintLog: Warning: Blueprint failed to compile:  BPC_ControllerHugo
+[2024.02.07-13.18.15:228][451]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2024.02.07-13.18.16:899][598]LogSlate: Window 'Message Log' being destroyed
+[2024.02.07-13.18.16:906][598]LogSlate: Window 'Message Log' being destroyed
+[2024.02.07-13.19.25:909][700]LogViewport: Scene viewport resized to 1579x1011, mode Windowed.
+[2024.02.07-13.20.18:971][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.02.07-13.20.18:973][998]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.017
+[2024.02.07-13.20.18:973][998]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/OurCharacters/Controllers/BPC_ControllerHugo] ([2] browsable assets)...
+[2024.02.07-13.20.18:973][998]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurCharacters/Controllers/BPC_ControllerHugo]
+[2024.02.07-13.20.18:976][998]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurCharacters/Controllers/BPC_ControllerHugo_Auto1
+[2024.02.07-13.20.18:976][998]LogSavePackage: Moving 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Saved/BPC_ControllerHugo_Auto1B7C2E9864D800ACC4339F2BA57FB65A6.tmp' to 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Saved/Autosaves/Game/OurCharacters/Controllers/BPC_ControllerHugo_Auto1.uasset'
+[2024.02.07-13.20.18:977][998]LogFileHelpers: Auto-saving content packages took 0.004
+[2024.02.07-13.23.48:750][179]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-13.23.48:782][179]LogSavePackage: Moving output files for package: /Game/OurCharacters/Controllers/BPC_ControllerHugo
+[2024.02.07-13.23.48:782][179]LogSavePackage: Moving 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Saved/BPC_ControllerHugoFFDA37A144A7E62512612287648F84AF.tmp' to 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/OurCharacters/Controllers/BPC_ControllerHugo.uasset'
+[2024.02.07-13.23.48:788][179]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 709 ms)
+[2024.02.07-13.23.48:790][179]AssetCheck: New page: Asset Save: BPC_ControllerHugo
+[2024.02.07-13.23.48:790][179]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/OurCharacters/Controllers/BPC_ControllerHugo.BPC_ControllerHugo
+[2024.02.07-13.25.42:996][702]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/OurCharacters/IMC/IMC_Shooting.IMC_Shooting
+[2024.02.07-13.25.53:122][865]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/OurCharacters/IMC/IMC_GameDefault.IMC_GameDefault
+[2024.02.07-13.27.04:850][802]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/OurCharacters/Controllers/BPC_ControllerBase.BPC_ControllerBase
+[2024.02.07-13.27.04:850][802]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-13.27.04:850][802]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.07-13.27.41:125][726]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.02.07-13.27.41:125][726]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.02.07-13.27.57:901][563]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-13.27.57:932][563]LogSavePackage: Moving output files for package: /Game/OurCharacters/Controllers/BPC_ControllerHugo
+[2024.02.07-13.27.57:932][563]LogSavePackage: Moving 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Saved/BPC_ControllerHugo1A262C30497DC6FB6888459EBFD34F6B.tmp' to 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/OurCharacters/Controllers/BPC_ControllerHugo.uasset'
+[2024.02.07-13.27.57:938][563]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 745 ms)
+[2024.02.07-13.27.57:939][563]AssetCheck: New page: Asset Save: BPC_ControllerHugo
+[2024.02.07-13.27.57:939][563]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/OurCharacters/Controllers/BPC_ControllerHugo.BPC_ControllerHugo
+[2024.02.07-13.27.59:288][725]BlueprintLog: New page: Compile BPC_ControllerHugo
+[2024.02.07-13.27.59:320][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.02.07-13.28.02:739][ 98]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.02.07-13.28.28:949][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-13.28.28:978][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OurCharacters/IMC/IMC_GameDefault" FILE="C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/OurCharacters/IMC/IMC_GameDefault.uasset" SILENT=true
+[2024.02.07-13.28.28:979][ 49]LogSavePackage: Moving output files for package: /Game/OurCharacters/IMC/IMC_GameDefault
+[2024.02.07-13.28.28:980][ 49]LogSavePackage: Moving 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Saved/IMC_GameDefault3F1BC34F414CEC7C8FB0DA858540B9C5.tmp' to 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/OurCharacters/IMC/IMC_GameDefault.uasset'
+[2024.02.07-13.28.28:986][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave took 37 ms (total: 782 ms)
+[2024.02.07-13.28.28:987][ 49]AssetCheck: New page: Asset Save: IMC_GameDefault
+[2024.02.07-13.28.28:987][ 49]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/OurCharacters/IMC/IMC_GameDefault.IMC_GameDefault
+[2024.02.07-13.28.42:357][626]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.07-13.28.42:366][626]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.07-13.28.42:366][626]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.02.07-13.28.42:368][626]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 27 ms)
+[2024.02.07-13.28.42:368][626]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.07-13.28.42:368][626]PIE: New page: PIE session: ThirdPersonMap (7 févr. 2024 à 15:28:42)
+[2024.02.07-13.28.42:390][626]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.02.07-13.28.42:397][626]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006791s)
+[2024.02.07-13.28.42:397][626]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006837s)
+[2024.02.07-13.28.42:413][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.02.07-13.28.42:414][626]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-13.28.42:414][626]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.07-13.28.42:415][626]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.02.07-13.28.42:415][626]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.07-13.28.42:415][626]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.07-13.28.42:415][626]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.07-13.28.42:415][626]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.02.07-13.28.42:417][626]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.02.07-13.28.42:417][626]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 115 ms)
+[2024.02.07-13.28.42:417][626]LogPlayLevel: PIE: World Init took: (0.003206s)
+[2024.02.07-13.28.42:417][626]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.02.07-13.28.42:417][626]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.07-13.28.42:417][626]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.07-13.28.42:417][626]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.07-13.28.42:417][626]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.07-13.28.42:417][626]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.07-13.28.42:417][626]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.07-13.28.42:418][626]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.07-13.28.42:418][626]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.07-13.28.42:418][626]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.07-13.28.42:418][626]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.07-13.28.42:418][626]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.07-13.28.42:420][626]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.07-13.28.42:479][626]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (4- Realtek(R) Audio)
+[2024.02.07-13.28.42:480][626]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.07-13.28.42:480][626]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.07-13.28.42:480][626]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.07-13.28.42:481][626]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.02.07-13.28.42:481][626]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.02.07-13.28.42:482][626]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.02.07-13.28.42:482][626]LogInit: FAudioDevice initialized with ID 5.
+[2024.02.07-13.28.42:482][626]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonMap'.
+[2024.02.07-13.28.42:482][626]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.02.07-13.28.42:482][626]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.02.07-13.28.42:484][626]LogLoad: Game class is 'BPC_Gamemode_C'
+[2024.02.07-13.28.42:486][626]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.02.07-14.28.42
+[2024.02.07-13.28.42:486][626]LogWorld: Bringing up level for play took: 0.001613
+[2024.02.07-13.28.42:488][626]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.02.07-13.28.42:491][626]PIE: Server logged in
+[2024.02.07-13.28.42:492][626]PIE: Play in editor total start time 0,126 seconds.
+[2024.02.07-13.29.07:098][346]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 75
+[2024.02.07-13.29.07:098][346]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.07:159][353]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 50
+[2024.02.07-13.29.07:159][353]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:386][966]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 25
+[2024.02.07-13.29.30:386][966]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:454][974]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:454][974]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:454][974]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:470][976]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:470][976]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:470][976]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:479][977]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:480][977]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:480][977]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:488][978]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:488][978]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:488][978]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:496][979]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:496][979]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:496][979]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:506][980]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:506][980]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:506][980]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:513][981]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:513][981]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:513][981]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:513][981]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:513][981]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:513][981]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:521][982]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:521][982]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:521][982]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:530][983]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:530][983]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:530][983]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:539][984]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:539][984]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:539][984]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:547][985]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:547][985]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:547][985]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:556][986]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:556][986]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:556][986]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:564][987]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:564][987]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:564][987]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:573][988]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:573][988]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:573][988]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:581][989]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:581][989]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:581][989]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:589][990]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:589][990]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:589][990]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:598][991]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:598][991]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:598][991]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:607][992]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:607][992]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:607][992]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:615][993]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:615][993]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:615][993]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:624][994]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:624][994]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:624][994]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:634][995]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:634][995]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:634][995]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:641][996]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:641][996]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:641][996]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:649][997]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:649][997]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:649][997]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:658][998]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:658][998]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:658][998]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:668][999]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:668][999]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:668][999]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:677][  0]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:677][  0]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:677][  0]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:686][  1]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:686][  1]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:686][  1]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:696][  2]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:696][  2]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:696][  2]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:707][  3]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:707][  3]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:707][  3]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:717][  4]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:717][  4]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:717][  4]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:726][  5]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:726][  5]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:726][  5]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:737][  6]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:737][  6]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:737][  6]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:745][  7]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:745][  7]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:745][  7]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:753][  8]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:753][  8]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:753][  8]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:764][  9]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:764][  9]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:764][  9]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:772][ 10]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:772][ 10]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:772][ 10]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:780][ 11]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:780][ 11]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:780][ 11]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:789][ 12]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:789][ 12]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:789][ 12]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:798][ 13]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:798][ 13]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:798][ 13]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:806][ 14]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:807][ 14]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:807][ 14]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:815][ 15]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:815][ 15]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:815][ 15]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:825][ 16]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:825][ 16]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:825][ 16]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:833][ 17]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:833][ 17]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:833][ 17]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:841][ 18]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:841][ 18]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:841][ 18]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:849][ 19]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:849][ 19]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:849][ 19]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:858][ 20]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:858][ 20]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:858][ 20]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:867][ 21]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:867][ 21]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:867][ 21]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.30:875][ 22]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.30:875][ 22]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.30:875][ 22]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.31:237][ 57]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.31:237][ 57]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.31:237][ 57]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.31:253][ 58]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.31:253][ 58]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.31:253][ 58]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.31:253][ 58]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.31:253][ 58]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.31:253][ 58]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.31:261][ 59]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.31:261][ 59]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.31:261][ 59]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.31:270][ 60]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.31:270][ 60]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.31:270][ 60]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.31:270][ 60]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.31:270][ 60]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.31:270][ 60]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.31:279][ 61]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.31:279][ 61]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.31:279][ 61]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.31:288][ 62]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.31:288][ 62]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.31:288][ 62]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.31:296][ 63]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.31:296][ 63]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.31:296][ 63]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.31:296][ 63]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.31:296][ 63]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.31:296][ 63]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.31:296][ 63]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.31:296][ 63]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.31:296][ 63]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.31:306][ 64]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.31:306][ 64]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.31:306][ 64]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.31:306][ 64]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.31:306][ 64]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.31:306][ 64]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.31:564][ 94]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.31:564][ 94]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.31:564][ 94]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.31:573][ 95]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.31:573][ 95]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.31:573][ 95]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.31:589][ 97]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.31:589][ 97]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.31:589][ 97]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.37:936][817]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.37:936][817]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.37:936][817]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.37:936][817]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.37:936][817]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.37:936][817]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.37:970][821]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.37:970][821]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.37:970][821]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.37:979][822]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.37:979][822]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.37:979][822]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.37:988][823]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.37:988][823]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.37:988][823]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.37:998][824]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 0
+[2024.02.07-13.29.37:998][824]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Dead
+[2024.02.07-13.29.37:998][824]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.29.53:898][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.07-13.29.53:898][427]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.02.07-13.29.53:899][427]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-13.29.53:899][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-13.29.53:899][427]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.02.07-13.29.53:923][427]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.07-13.29.53:929][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-13.29.53:942][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.07-13.29.53:943][427]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.02.07-13.29.53:943][427]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.02.07-13.29.53:945][427]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.02.07-13.29.53:951][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.02.07-13.29.53:970][428]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.02.07-13.29.56:848][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.02.07-13.30.01:402][742]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.07-13.30.01:463][742]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-13.30.01:463][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-13.30.01:491][742]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/OurCharacters/Controllers/BPC_ControllerHugo.BPC_ControllerHugo
+	Asset Type: Blueprint
+[2024.02.07-13.30.01:796][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.02.07-13.30.01:811][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.02.07-13.30.01:824][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.02.07-13.30.30:637][598]LogSlate: Window 'Fix Self Context Function References' being destroyed
+[2024.02.07-13.30.51:311][914]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-13.30.51:363][914]LogSavePackage: Moving output files for package: /Game/OurCharacters/Controllers/BPC_ControllerBase
+[2024.02.07-13.30.51:364][914]LogSavePackage: Moving 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Saved/BPC_ControllerBase695FAED54CEDC796DC52AB8F80946979.tmp' to 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/OurCharacters/Controllers/BPC_ControllerBase.uasset'
+[2024.02.07-13.30.51:373][914]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 844 ms)
+[2024.02.07-13.30.51:374][914]AssetCheck: New page: Asset Save: BPC_ControllerBase
+[2024.02.07-13.30.51:374][914]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/OurCharacters/Controllers/BPC_ControllerBase.BPC_ControllerBase
+[2024.02.07-13.31.01:180][ 86]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-13.31.01:231][ 86]LogSavePackage: Moving output files for package: /Game/OurCharacters/Controllers/BPC_ControllerBase
+[2024.02.07-13.31.01:232][ 86]LogSavePackage: Moving 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Saved/BPC_ControllerBaseB3870C3144A0C35A35B7CAB1677934AD.tmp' to 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/OurCharacters/Controllers/BPC_ControllerBase.uasset'
+[2024.02.07-13.31.01:238][ 86]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 902 ms)
+[2024.02.07-13.31.01:240][ 86]AssetCheck: New page: Asset Save: BPC_ControllerBase
+[2024.02.07-13.31.01:240][ 86]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/OurCharacters/Controllers/BPC_ControllerBase.BPC_ControllerBase
+[2024.02.07-13.31.02:671][244]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-13.31.02:719][244]LogSavePackage: Moving output files for package: /Game/OurCharacters/Controllers/BPC_ControllerBase
+[2024.02.07-13.31.02:720][244]LogSavePackage: Moving 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Saved/BPC_ControllerBaseB0237C1047AA96C0409A85BC83DEB9C2.tmp' to 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/OurCharacters/Controllers/BPC_ControllerBase.uasset'
+[2024.02.07-13.31.02:730][244]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 961 ms)
+[2024.02.07-13.31.02:732][244]AssetCheck: New page: Asset Save: BPC_ControllerBase
+[2024.02.07-13.31.02:732][244]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/OurCharacters/Controllers/BPC_ControllerBase.BPC_ControllerBase
+[2024.02.07-13.31.03:929][372]BlueprintLog: New page: Compile BPC_ControllerBase
+[2024.02.07-13.31.03:964][372]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Could not find a variable named "CharacterOnField" in 'BPC_ControllerBase_C'.
+Make sure 'BPC_ControllerBase_C' has been compiled for  Get CharacterOnField
+[2024.02.07-13.31.03:964][372]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Could not find a variable named "CharacterOnField" in 'BPC_ControllerBase_C'.
+Make sure 'BPC_ControllerBase_C' has been compiled for  Set CharacterOnField
+[2024.02.07-13.31.03:964][372]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Input pin  Character  specifying non-default value no longer exists on node  Set . Please refresh node or reset pin to default value to remove pin.
+[2024.02.07-13.31.03:964][372]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2024.02.07-13.31.03:965][372]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Controller.Character is not blueprint writable.  Set
+[2024.02.07-13.31.03:965][372]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Could not find a variable named "CanChangeCharacter" in 'BPC_ControllerBase_C'.
+Make sure 'BPC_ControllerBase_C' has been compiled for  Set CanChangeCharacter
+[2024.02.07-13.31.03:965][372]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Could not find a variable named "CanChangeCharacter" in 'BPC_ControllerBase_C'.
+Make sure 'BPC_ControllerBase_C' has been compiled for  Set CanChangeCharacter
+[2024.02.07-13.31.03:965][372]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Could not find a variable named "CanChangeCharacter" in 'BPC_ControllerBase_C'.
+Make sure 'BPC_ControllerBase_C' has been compiled for  Get CanChangeCharacter
+[2024.02.07-13.31.03:965][372]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Could not find a variable named "CharacterOnField" in 'BPC_ControllerBase_C'.
+Make sure 'BPC_ControllerBase_C' has been compiled for  Get CharacterOnField
+[2024.02.07-13.31.03:965][372]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Could not find a variable named "CharacterOnField" in 'BPC_ControllerBase_C'.
+Make sure 'BPC_ControllerBase_C' has been compiled for  Get CharacterOnField
+[2024.02.07-13.31.03:965][372]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Could not find a variable named "CharacterOnField" in 'BPC_ControllerBase_C'.
+Make sure 'BPC_ControllerBase_C' has been compiled for  Set CharacterOnField
+[2024.02.07-13.31.03:965][372]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Could not find a variable named "CharacterOnField" in 'BPC_ControllerBase_C'.
+Make sure 'BPC_ControllerBase_C' has been compiled for  Set CharacterOnField
+[2024.02.07-13.31.03:966][372]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Input pin  Character  specifying non-default value no longer exists on node  Set . Please refresh node or reset pin to default value to remove pin.
+[2024.02.07-13.31.03:966][372]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2024.02.07-13.31.03:966][372]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Controller.Character is not blueprint writable.  Set
+[2024.02.07-13.31.03:966][372]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Input pin  Character  specifying non-default value no longer exists on node  Set . Please refresh node or reset pin to default value to remove pin.
+[2024.02.07-13.31.03:966][372]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2024.02.07-13.31.03:966][372]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Controller.Character is not blueprint writable.  Set
+[2024.02.07-13.31.03:969][372]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Could not find a variable named "SavedRotator" in 'BPC_ControllerBase_C'.
+Make sure 'BPC_ControllerBase_C' has been compiled for  Set SavedRotator
+[2024.02.07-13.31.03:969][372]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Could not find a variable named "SavedRotator" in 'BPC_ControllerBase_C'.
+Make sure 'BPC_ControllerBase_C' has been compiled for  Get SavedRotator
+[2024.02.07-13.31.03:969][372]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Could not find a variable named "SpawnTransform" in 'BPC_ControllerBase_C'.
+Make sure 'BPC_ControllerBase_C' has been compiled for  Set SpawnTransform
+[2024.02.07-13.31.03:969][372]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Could not find a variable named "SpawnTransform" in 'BPC_ControllerBase_C'.
+Make sure 'BPC_ControllerBase_C' has been compiled for  Get SpawnTransform
+[2024.02.07-13.31.03:969][372]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] In use pin  Character  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2024.02.07-13.31.03:969][372]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Controller.Character is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get
+[2024.02.07-13.31.03:970][372]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] The property associated with  Character on Field  could not be found in '/Game/OurCharacters/Controllers/BPC_ControllerBase.BPC_ControllerBase_C'
+[2024.02.07-13.31.03:970][372]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] The property associated with  Character on Field  could not be found in '/Game/OurCharacters/Controllers/BPC_ControllerBase.BPC_ControllerBase_C'
+[2024.02.07-13.31.03:970][372]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] The property associated with  Character on Field  could not be found in '/Game/OurCharacters/Controllers/BPC_ControllerBase.BPC_ControllerBase_C'
+[2024.02.07-13.31.03:971][372]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] The property associated with  Character on Field  could not be found in '/Game/OurCharacters/Controllers/BPC_ControllerBase.BPC_ControllerBase_C'
+[2024.02.07-13.31.03:971][372]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] The property associated with  Can Change Character  could not be found in '/Game/OurCharacters/Controllers/BPC_ControllerBase.BPC_ControllerBase_C'
+[2024.02.07-13.31.03:971][372]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] The property associated with  Can Change Character  could not be found in '/Game/OurCharacters/Controllers/BPC_ControllerBase.BPC_ControllerBase_C'
+[2024.02.07-13.31.03:971][372]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] The property associated with  Can Change Character  could not be found in '/Game/OurCharacters/Controllers/BPC_ControllerBase.BPC_ControllerBase_C'
+[2024.02.07-13.31.03:971][372]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] The property associated with  Character on Field  could not be found in '/Game/OurCharacters/Controllers/BPC_ControllerBase.BPC_ControllerBase_C'
+[2024.02.07-13.31.03:971][372]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] The property associated with  Character on Field  could not be found in '/Game/OurCharacters/Controllers/BPC_ControllerBase.BPC_ControllerBase_C'
+[2024.02.07-13.31.03:996][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.02.07-13.31.23:747][621]BlueprintLog: New page: Compile BPC_ControllerBase
+[2024.02.07-13.31.23:757][621]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Input pin  Character  specifying non-default value no longer exists on node  Set . Please refresh node or reset pin to default value to remove pin.
+[2024.02.07-13.31.23:757][621]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2024.02.07-13.31.23:757][621]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Controller.Character is not blueprint writable.  Set
+[2024.02.07-13.31.23:757][621]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Could not find a variable named "CanChangeCharacter" in 'BPC_ControllerBase_C'.
+Make sure 'BPC_ControllerBase_C' has been compiled for  Set CanChangeCharacter
+[2024.02.07-13.31.23:757][621]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Could not find a variable named "CanChangeCharacter" in 'BPC_ControllerBase_C'.
+Make sure 'BPC_ControllerBase_C' has been compiled for  Set CanChangeCharacter
+[2024.02.07-13.31.23:757][621]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Could not find a variable named "CanChangeCharacter" in 'BPC_ControllerBase_C'.
+Make sure 'BPC_ControllerBase_C' has been compiled for  Get CanChangeCharacter
+[2024.02.07-13.31.23:757][621]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Input pin  Character  specifying non-default value no longer exists on node  Set . Please refresh node or reset pin to default value to remove pin.
+[2024.02.07-13.31.23:757][621]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2024.02.07-13.31.23:758][621]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Controller.Character is not blueprint writable.  Set
+[2024.02.07-13.31.23:758][621]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Input pin  Character  specifying non-default value no longer exists on node  Set . Please refresh node or reset pin to default value to remove pin.
+[2024.02.07-13.31.23:758][621]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2024.02.07-13.31.23:758][621]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Controller.Character is not blueprint writable.  Set
+[2024.02.07-13.31.23:760][621]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Could not find a variable named "SavedRotator" in 'BPC_ControllerBase_C'.
+Make sure 'BPC_ControllerBase_C' has been compiled for  Set SavedRotator
+[2024.02.07-13.31.23:760][621]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Could not find a variable named "SavedRotator" in 'BPC_ControllerBase_C'.
+Make sure 'BPC_ControllerBase_C' has been compiled for  Get SavedRotator
+[2024.02.07-13.31.23:760][621]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Could not find a variable named "SpawnTransform" in 'BPC_ControllerBase_C'.
+Make sure 'BPC_ControllerBase_C' has been compiled for  Set SpawnTransform
+[2024.02.07-13.31.23:760][621]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Could not find a variable named "SpawnTransform" in 'BPC_ControllerBase_C'.
+Make sure 'BPC_ControllerBase_C' has been compiled for  Get SpawnTransform
+[2024.02.07-13.31.23:761][621]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] In use pin  Character  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2024.02.07-13.31.23:761][621]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Controller.Character is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get
+[2024.02.07-13.31.23:762][621]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] The property associated with  Can Change Character  could not be found in '/Game/OurCharacters/Controllers/BPC_ControllerBase.BPC_ControllerBase_C'
+[2024.02.07-13.31.23:762][621]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] The property associated with  Can Change Character  could not be found in '/Game/OurCharacters/Controllers/BPC_ControllerBase.BPC_ControllerBase_C'
+[2024.02.07-13.31.23:762][621]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] The property associated with  Can Change Character  could not be found in '/Game/OurCharacters/Controllers/BPC_ControllerBase.BPC_ControllerBase_C'
+[2024.02.07-13.31.23:785][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.02.07-13.31.29:557][152]BlueprintLog: New page: Compile BPC_ControllerBase
+[2024.02.07-13.31.29:565][152]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Input pin  Character  specifying non-default value no longer exists on node  Set . Please refresh node or reset pin to default value to remove pin.
+[2024.02.07-13.31.29:565][152]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2024.02.07-13.31.29:565][152]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Controller.Character is not blueprint writable.  Set
+[2024.02.07-13.31.29:566][152]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Input pin  Character  specifying non-default value no longer exists on node  Set . Please refresh node or reset pin to default value to remove pin.
+[2024.02.07-13.31.29:566][152]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2024.02.07-13.31.29:566][152]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Controller.Character is not blueprint writable.  Set
+[2024.02.07-13.31.29:566][152]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Input pin  Character  specifying non-default value no longer exists on node  Set . Please refresh node or reset pin to default value to remove pin.
+[2024.02.07-13.31.29:566][152]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2024.02.07-13.31.29:566][152]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Controller.Character is not blueprint writable.  Set
+[2024.02.07-13.31.29:568][152]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Could not find a variable named "SavedRotator" in 'BPC_ControllerBase_C'.
+Make sure 'BPC_ControllerBase_C' has been compiled for  Set SavedRotator
+[2024.02.07-13.31.29:568][152]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Could not find a variable named "SavedRotator" in 'BPC_ControllerBase_C'.
+Make sure 'BPC_ControllerBase_C' has been compiled for  Get SavedRotator
+[2024.02.07-13.31.29:568][152]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Could not find a variable named "SpawnTransform" in 'BPC_ControllerBase_C'.
+Make sure 'BPC_ControllerBase_C' has been compiled for  Set SpawnTransform
+[2024.02.07-13.31.29:568][152]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Could not find a variable named "SpawnTransform" in 'BPC_ControllerBase_C'.
+Make sure 'BPC_ControllerBase_C' has been compiled for  Get SpawnTransform
+[2024.02.07-13.31.29:569][152]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] In use pin  Character  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2024.02.07-13.31.29:569][152]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Controller.Character is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get
+[2024.02.07-13.31.29:592][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.02.07-13.31.55:655][ 60]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Internal Compiler Error: Tried to create a property Character in scope SKEL_BPC_ControllerBase_C, but another object (ObjectProperty /Script/Engine.Controller:Character) already exists there.
+[2024.02.07-13.32.10:081][631]LogEditorTransaction: Undo Create Missing Variable
+[2024.02.07-13.32.22:433][958]LogSlate: Took 0.014811 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.02.07-13.33.34:231][962]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-13.33.34:285][962]LogSavePackage: Moving output files for package: /Game/OurCharacters/Controllers/BPC_ControllerBase
+[2024.02.07-13.33.34:286][962]LogSavePackage: Moving 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Saved/BPC_ControllerBase19C5BF8043CDD73C653AC1B55F633145.tmp' to 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/OurCharacters/Controllers/BPC_ControllerBase.uasset'
+[2024.02.07-13.33.34:291][962]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 1.02 sec)
+[2024.02.07-13.33.34:293][962]AssetCheck: New page: Asset Save: BPC_ControllerBase
+[2024.02.07-13.33.34:294][962]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/OurCharacters/Controllers/BPC_ControllerBase.BPC_ControllerBase
+[2024.02.07-13.33.41:465][723]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-13.33.41:515][723]LogSavePackage: Moving output files for package: /Game/OurCharacters/Controllers/BPC_ControllerBase
+[2024.02.07-13.33.41:516][723]LogSavePackage: Moving 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Saved/BPC_ControllerBase988F4F11476DB0561C0A89BAED9CAAAF.tmp' to 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/OurCharacters/Controllers/BPC_ControllerBase.uasset'
+[2024.02.07-13.33.41:522][723]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 1.07 sec)
+[2024.02.07-13.33.41:523][723]AssetCheck: New page: Asset Save: BPC_ControllerBase
+[2024.02.07-13.33.41:523][723]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/OurCharacters/Controllers/BPC_ControllerBase.BPC_ControllerBase
+[2024.02.07-13.33.43:758][960]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-13.33.43:803][960]LogSavePackage: Moving output files for package: /Game/OurCharacters/Controllers/BPC_ControllerBase
+[2024.02.07-13.33.43:804][960]LogSavePackage: Moving 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Saved/BPC_ControllerBase1A3F4F1F41AC2B1A9E9F06ABC76084A6.tmp' to 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/OurCharacters/Controllers/BPC_ControllerBase.uasset'
+[2024.02.07-13.33.43:809][960]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 1.12 sec)
+[2024.02.07-13.33.43:812][960]AssetCheck: New page: Asset Save: BPC_ControllerBase
+[2024.02.07-13.33.43:812][960]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/OurCharacters/Controllers/BPC_ControllerBase.BPC_ControllerBase
+[2024.02.07-13.33.44:911][ 73]BlueprintLog: New page: Compile BPC_ControllerBase
+[2024.02.07-13.33.44:921][ 73]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Could not find a variable named "SavedRotator" in 'BPC_ControllerBase_C'.
+Make sure 'BPC_ControllerBase_C' has been compiled for  Set SavedRotator
+[2024.02.07-13.33.44:921][ 73]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Could not find a variable named "SavedRotator" in 'BPC_ControllerBase_C'.
+Make sure 'BPC_ControllerBase_C' has been compiled for  Get SavedRotator
+[2024.02.07-13.33.44:921][ 73]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Could not find a variable named "SpawnTransform" in 'BPC_ControllerBase_C'.
+Make sure 'BPC_ControllerBase_C' has been compiled for  Set SpawnTransform
+[2024.02.07-13.33.44:922][ 73]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Could not find a variable named "SpawnTransform" in 'BPC_ControllerBase_C'.
+Make sure 'BPC_ControllerBase_C' has been compiled for  Get SpawnTransform
+[2024.02.07-13.33.44:922][ 73]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] In use pin  Character  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2024.02.07-13.33.44:922][ 73]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Controller.Character is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get
+[2024.02.07-13.33.44:946][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.02.07-13.34.45:796][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-13.34.45:850][ 37]LogSavePackage: Moving output files for package: /Game/OurCharacters/Controllers/BPC_ControllerBase
+[2024.02.07-13.34.45:850][ 37]LogSavePackage: Moving 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Saved/BPC_ControllerBaseD68E79BD46E4ED5BED42B5AD6641B34F.tmp' to 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/OurCharacters/Controllers/BPC_ControllerBase.uasset'
+[2024.02.07-13.34.45:855][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 1.18 sec)
+[2024.02.07-13.34.45:857][ 37]AssetCheck: New page: Asset Save: BPC_ControllerBase
+[2024.02.07-13.34.45:857][ 37]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/OurCharacters/Controllers/BPC_ControllerBase.BPC_ControllerBase
+[2024.02.07-13.34.48:044][256]BlueprintLog: New page: Compile BPC_ControllerBase
+[2024.02.07-13.34.48:054][256]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Could not find a variable named "SavedRotator" in 'BPC_ControllerBase_C'.
+Make sure 'BPC_ControllerBase_C' has been compiled for  Set SavedRotator
+[2024.02.07-13.34.48:054][256]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Could not find a variable named "SavedRotator" in 'BPC_ControllerBase_C'.
+Make sure 'BPC_ControllerBase_C' has been compiled for  Get SavedRotator
+[2024.02.07-13.34.48:055][256]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Could not find a variable named "SpawnTransform" in 'BPC_ControllerBase_C'.
+Make sure 'BPC_ControllerBase_C' has been compiled for  Set SpawnTransform
+[2024.02.07-13.34.48:055][256]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Could not find a variable named "SpawnTransform" in 'BPC_ControllerBase_C'.
+Make sure 'BPC_ControllerBase_C' has been compiled for  Get SpawnTransform
+[2024.02.07-13.34.48:056][256]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] The property associated with  Spawn Transform  could not be found in '/Game/OurCharacters/Controllers/BPC_ControllerBase.BPC_ControllerBase_C'
+[2024.02.07-13.34.48:056][256]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] The property associated with  Saved Rotator  could not be found in '/Game/OurCharacters/Controllers/BPC_ControllerBase.BPC_ControllerBase_C'
+[2024.02.07-13.34.48:056][256]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] The property associated with  Saved Rotator  could not be found in '/Game/OurCharacters/Controllers/BPC_ControllerBase.BPC_ControllerBase_C'
+[2024.02.07-13.34.48:056][256]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] The property associated with  Spawn Transform  could not be found in '/Game/OurCharacters/Controllers/BPC_ControllerBase.BPC_ControllerBase_C'
+[2024.02.07-13.34.48:080][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.02.07-13.34.54:835][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-13.34.54:894][ 35]LogSavePackage: Moving output files for package: /Game/OurCharacters/Controllers/BPC_ControllerBase
+[2024.02.07-13.34.54:894][ 35]LogSavePackage: Moving 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Saved/BPC_ControllerBaseE7E93C8E4069429999B738AB3A52DC89.tmp' to 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/OurCharacters/Controllers/BPC_ControllerBase.uasset'
+[2024.02.07-13.34.54:900][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 1.25 sec)
+[2024.02.07-13.34.54:902][ 35]AssetCheck: New page: Asset Save: BPC_ControllerBase
+[2024.02.07-13.34.54:902][ 35]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/OurCharacters/Controllers/BPC_ControllerBase.BPC_ControllerBase
+[2024.02.07-13.34.56:447][218]BlueprintLog: New page: Compile BPC_ControllerBase
+[2024.02.07-13.34.56:459][218]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Could not find a variable named "SavedRotator" in 'BPC_ControllerBase_C'.
+Make sure 'BPC_ControllerBase_C' has been compiled for  Set SavedRotator
+[2024.02.07-13.34.56:459][218]LogBlueprint: Warning: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] Could not find a variable named "SavedRotator" in 'BPC_ControllerBase_C'.
+Make sure 'BPC_ControllerBase_C' has been compiled for  Get SavedRotator
+[2024.02.07-13.34.56:460][218]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] The property associated with  Saved Rotator  could not be found in '/Game/OurCharacters/Controllers/BPC_ControllerBase.BPC_ControllerBase_C'
+[2024.02.07-13.34.56:461][218]LogBlueprint: Error: [AssetLog] C:\Users\RatonFuté\Documents\GitHub\ShadersProject\ShadersProject\Content\OurCharacters\Controllers\BPC_ControllerBase.uasset: [Compiler] The property associated with  Saved Rotator  could not be found in '/Game/OurCharacters/Controllers/BPC_ControllerBase.BPC_ControllerBase_C'
+[2024.02.07-13.34.56:483][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.02.07-13.35.00:307][647]BlueprintLog: New page: Compile BPC_ControllerBase
+[2024.02.07-13.35.00:340][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.02.07-13.35.02:527][895]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-13.35.02:588][895]LogSavePackage: Moving output files for package: /Game/OurCharacters/Controllers/BPC_ControllerBase
+[2024.02.07-13.35.02:589][895]LogSavePackage: Moving 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Saved/BPC_ControllerBaseC35CAD034E8C3BB98377F283E0463419.tmp' to 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/OurCharacters/Controllers/BPC_ControllerBase.uasset'
+[2024.02.07-13.35.02:595][895]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 1.32 sec)
+[2024.02.07-13.35.02:595][895]AssetCheck: New page: Asset Save: BPC_ControllerBase
+[2024.02.07-13.35.02:595][895]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/OurCharacters/Controllers/BPC_ControllerBase.BPC_ControllerBase
+[2024.02.07-13.35.03:812][ 18]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-13.35.03:870][ 18]LogSavePackage: Moving output files for package: /Game/OurCharacters/Controllers/BPC_ControllerBase
+[2024.02.07-13.35.03:871][ 18]LogSavePackage: Moving 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Saved/BPC_ControllerBase93343A3A4A1E2104433F5685D0EF7961.tmp' to 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/OurCharacters/Controllers/BPC_ControllerBase.uasset'
+[2024.02.07-13.35.03:881][ 18]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 1.39 sec)
+[2024.02.07-13.35.03:883][ 18]AssetCheck: New page: Asset Save: BPC_ControllerBase
+[2024.02.07-13.35.03:883][ 18]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/OurCharacters/Controllers/BPC_ControllerBase.BPC_ControllerBase
+[2024.02.07-13.35.08:731][560]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-13.35.08:815][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.02.07-13.35.08:828][560]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.02.07-13.35.08:829][560]LogSavePackage: Moving 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Saved/ThirdPersonMap702717404C8E649A17EFF990D5C525F7.tmp' to 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2024.02.07-13.35.08:835][560]LogFileHelpers: All files are already saved.
+[2024.02.07-13.35.08:836][560]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.068
+[2024.02.07-13.35.08:843][560]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 1.50 sec)
+[2024.02.07-13.35.08:846][560]AssetCheck: New page: Asset Save: ThirdPersonMap
+[2024.02.07-13.35.08:846][560]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.02.07-13.35.19:036][727]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-13.35.19:103][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.02.07-13.35.19:116][727]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.02.07-13.35.19:116][727]LogSavePackage: Moving 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Saved/ThirdPersonMap6C7FF9BF4A23558689B33393AB4DA5DC.tmp' to 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2024.02.07-13.35.19:122][727]LogFileHelpers: All files are already saved.
+[2024.02.07-13.35.19:123][727]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.062
+[2024.02.07-13.35.19:127][727]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 1.59 sec)
+[2024.02.07-13.35.19:129][727]AssetCheck: New page: Asset Save: ThirdPersonMap
+[2024.02.07-13.35.19:129][727]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.02.07-13.35.21:292][986]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-13.35.21:360][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.02.07-13.35.21:368][986]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.02.07-13.35.21:369][986]LogSavePackage: Moving 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Saved/ThirdPersonMap9B9102C440C10EAD0C37E7AAFD0DA4FA.tmp' to 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2024.02.07-13.35.21:375][986]LogFileHelpers: All files are already saved.
+[2024.02.07-13.35.21:375][986]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.056
+[2024.02.07-13.35.21:381][986]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 1.68 sec)
+[2024.02.07-13.35.21:383][986]AssetCheck: New page: Asset Save: ThirdPersonMap
+[2024.02.07-13.35.21:383][986]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.02.07-13.35.21:889][ 47]BlueprintLog: New page: Compile ThirdPersonMap
+[2024.02.07-13.35.21:914][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.02.07-13.35.24:492][337]BlueprintLog: New page: Compile BPC_ControllerBase
+[2024.02.07-13.35.24:527][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.02.07-13.35.27:707][671]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.07-13.35.27:715][671]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.07-13.35.27:715][671]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.02.07-13.35.27:717][671]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 29 ms)
+[2024.02.07-13.35.27:717][671]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.07-13.35.27:718][671]PIE: New page: PIE session: ThirdPersonMap (7 févr. 2024 à 15:35:27)
+[2024.02.07-13.35.27:718][671]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.02.07-13.35.27:725][671]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007262s)
+[2024.02.07-13.35.27:725][671]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.007294s)
+[2024.02.07-13.35.27:739][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.02.07-13.35.27:744][671]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-13.35.27:744][671]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.07-13.35.27:744][671]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.02.07-13.35.27:745][671]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.07-13.35.27:745][671]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.07-13.35.27:745][671]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.07-13.35.27:745][671]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.02.07-13.35.27:746][671]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.02.07-13.35.27:746][671]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 117 ms)
+[2024.02.07-13.35.27:746][671]LogPlayLevel: PIE: World Init took: (0.002821s)
+[2024.02.07-13.35.27:746][671]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.02.07-13.35.27:746][671]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.07-13.35.27:746][671]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.07-13.35.27:746][671]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.07-13.35.27:746][671]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.07-13.35.27:746][671]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.07-13.35.27:746][671]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.07-13.35.27:746][671]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.07-13.35.27:746][671]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.07-13.35.27:747][671]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.07-13.35.27:747][671]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.07-13.35.27:747][671]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.07-13.35.27:749][671]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.07-13.35.27:822][671]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (4- Realtek(R) Audio)
+[2024.02.07-13.35.27:822][671]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.07-13.35.27:823][671]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.07-13.35.27:823][671]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.07-13.35.27:823][671]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.02.07-13.35.27:823][671]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.02.07-13.35.27:825][671]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.02.07-13.35.27:825][671]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.02.07-13.35.27:825][671]LogInit: FAudioDevice initialized with ID 6.
+[2024.02.07-13.35.27:825][671]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonMap'.
+[2024.02.07-13.35.27:825][671]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.02.07-13.35.27:828][671]LogLoad: Game class is 'BPC_Gamemode_C'
+[2024.02.07-13.35.27:830][671]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.02.07-14.35.27
+[2024.02.07-13.35.27:830][671]LogWorld: Bringing up level for play took: 0.001856
+[2024.02.07-13.35.27:833][671]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.02.07-13.35.27:837][671]PIE: Server logged in
+[2024.02.07-13.35.27:838][671]PIE: Play in editor total start time 0,123 seconds.
+[2024.02.07-13.35.38:584][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.07-13.35.38:584][867]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.02.07-13.35.38:584][867]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-13.35.38:585][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-13.35.38:585][867]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.02.07-13.35.38:587][867]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.07-13.35.38:591][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-13.35.38:607][867]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.07-13.35.38:607][867]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.02.07-13.35.38:607][867]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.02.07-13.35.38:609][867]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.02.07-13.35.38:613][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.07-13.35.38:616][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.02.07-13.35.38:643][868]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.02.07-13.36.56:507][203]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.07-13.36.56:515][203]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.07-13.36.56:515][203]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.02.07-13.36.56:516][203]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 30 ms)
+[2024.02.07-13.36.56:516][203]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.07-13.36.56:516][203]PIE: New page: PIE session: ThirdPersonMap (7 févr. 2024 à 15:36:56)
+[2024.02.07-13.36.56:516][203]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.02.07-13.36.56:522][203]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006127s)
+[2024.02.07-13.36.56:523][203]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006157s)
+[2024.02.07-13.36.56:536][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.02.07-13.36.56:538][203]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-13.36.56:538][203]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.07-13.36.56:538][203]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.02.07-13.36.56:539][203]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.07-13.36.56:539][203]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.07-13.36.56:539][203]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.07-13.36.56:539][203]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.02.07-13.36.56:540][203]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.02.07-13.36.56:540][203]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 118 ms)
+[2024.02.07-13.36.56:540][203]LogPlayLevel: PIE: World Init took: (0.002269s)
+[2024.02.07-13.36.56:540][203]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.02.07-13.36.56:540][203]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.07-13.36.56:540][203]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.07-13.36.56:540][203]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.07-13.36.56:540][203]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.07-13.36.56:540][203]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.07-13.36.56:540][203]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.07-13.36.56:540][203]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.07-13.36.56:540][203]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.07-13.36.56:540][203]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.07-13.36.56:540][203]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.07-13.36.56:540][203]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.07-13.36.56:542][203]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.07-13.36.56:605][203]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (4- Realtek(R) Audio)
+[2024.02.07-13.36.56:605][203]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.07-13.36.56:605][203]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.07-13.36.56:605][203]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.07-13.36.56:606][203]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.02.07-13.36.56:606][203]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.02.07-13.36.56:607][203]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.02.07-13.36.56:607][203]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.02.07-13.36.56:607][203]LogInit: FAudioDevice initialized with ID 7.
+[2024.02.07-13.36.56:607][203]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonMap'.
+[2024.02.07-13.36.56:607][203]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.02.07-13.36.56:610][203]LogLoad: Game class is 'BPC_Gamemode_C'
+[2024.02.07-13.36.56:612][203]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.02.07-14.36.56
+[2024.02.07-13.36.56:612][203]LogWorld: Bringing up level for play took: 0.001922
+[2024.02.07-13.36.56:613][203]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.02.07-13.36.56:619][203]PIE: Server logged in
+[2024.02.07-13.36.56:620][203]PIE: Play in editor total start time 0,106 seconds.
+[2024.02.07-13.37.28:467][804]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] 75
+[2024.02.07-13.37.28:467][804]LogBlueprintUserMessages: [BP_Tower_C_UAID_04BF1B869FBF02D701_1379719551] Hello
+[2024.02.07-13.38.39:074][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.07-13.38.39:074][185]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.02.07-13.38.39:074][185]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-13.38.39:075][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-13.38.39:075][185]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.02.07-13.38.39:077][185]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.07-13.38.39:083][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-13.38.39:096][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.07-13.38.39:096][185]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.02.07-13.38.39:096][185]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.02.07-13.38.39:098][185]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.02.07-13.38.39:104][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.02.07-13.38.39:140][188]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.02.07-13.40.00:632][402]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/OurCharacters/IA/IA_Dash.IA_Dash
+[2024.02.07-13.44.51:667][875]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/OurCharacters/IA/IA_Dash.IA_Dash
+[2024.02.07-13.45.11:618][144]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/ThirdPerson/Input/IMC_Default.IMC_Default
+[2024.02.07-13.46.09:120][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.02.07-13.46.12:042][823]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.07-13.46.12:069][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.02.07-13.46.12:087][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.02.07-13.46.12:100][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.02.07-13.46.26:431][481]Cmd: TRANSACTION UNDO
+[2024.02.07-13.46.26:431][481]LogEditorTransaction: Undo Add Action Mapping
+[2024.02.07-13.46.51:149][289]LogDerivedDataCache: C:/Users/RatonFuté/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:12.166 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6749 files in 8636 folders with total size 738 MiB.
+[2024.02.07-13.47.27:571][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.02.07-13.47.27:573][385]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.018
+[2024.02.07-13.47.27:573][385]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Input/IMC_Default] ([1] browsable assets)...
+[2024.02.07-13.47.27:573][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Input/IMC_Default]
+[2024.02.07-13.47.27:576][385]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Input/IMC_Default_Auto2
+[2024.02.07-13.47.27:576][385]LogSavePackage: Moving 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Saved/IMC_Default_Auto2FAFDC4064A619E5255B512A6B6650952.tmp' to 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Saved/Autosaves/Game/ThirdPerson/Input/IMC_Default_Auto2.uasset'
+[2024.02.07-13.47.27:576][385]LogFileHelpers: Auto-saving content packages took 0.003
+[2024.02.07-13.49.44:637][850]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2024.02.07-13.49.44:656][850]LogContentBrowser: Creating deferred item: NewInputAction
+[2024.02.07-13.49.44:671][851]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2024.02.07-13.50.49:292][374]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_
+[2024.02.07-13.50.49:293][374]LogContentBrowser: End creating deferred item NewInputAction
+[2024.02.07-13.51.16:034][815]LogContentBrowser: Attempting asset rename: IA_ -> IA_Skill
+[2024.02.07-13.51.16:108][815]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-13.51.16:138][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OurCharacters/IA/IA_Skill" FILE="C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/OurCharacters/IA/IA_Skill.uasset" SILENT=true
+[2024.02.07-13.51.16:139][815]LogSavePackage: Moving output files for package: /Game/OurCharacters/IA/IA_Skill
+[2024.02.07-13.51.16:139][815]LogSavePackage: Moving 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Saved/IA_SkillF55DA2534D83787DAEB3F095DA17412E.tmp' to 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/OurCharacters/IA/IA_Skill.uasset'
+[2024.02.07-13.51.16:145][815]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 1.72 sec)
+[2024.02.07-13.51.16:166][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.02.07-13.51.16:185][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.02.07-13.51.16:205][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.02.07-13.51.16:208][815]AssetCheck: New page: Asset Save: IA_Skill
+[2024.02.07-13.51.16:208][815]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/OurCharacters/IA/IA_Skill.IA_Skill
+[2024.02.07-13.51.35:961][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-13.51.35:990][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Input/IMC_Default" FILE="C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/ThirdPerson/Input/IMC_Default.uasset" SILENT=true
+[2024.02.07-13.51.35:992][ 32]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Input/IMC_Default
+[2024.02.07-13.51.35:993][ 32]LogSavePackage: Moving 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Saved/IMC_Default82FD4A2D4343EC26BA36E9B3BD9B4821.tmp' to 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/ThirdPerson/Input/IMC_Default.uasset'
+[2024.02.07-13.51.35:997][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 1.75 sec)
+[2024.02.07-13.51.35:999][ 32]AssetCheck: New page: Asset Save: IMC_Default
+[2024.02.07-13.51.35:999][ 32]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/ThirdPerson/Input/IMC_Default.IMC_Default
+[2024.02.07-13.51.59:408][827]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-13.51.59:461][827]LogSavePackage: Moving output files for package: /Game/OurCharacters/Controllers/BPC_ControllerBase
+[2024.02.07-13.51.59:461][827]LogSavePackage: Moving 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Saved/BPC_ControllerBaseF962C8E146B60A071093729385F66FCB.tmp' to 'C:/Users/RatonFuté/Documents/GitHub/ShadersProject/ShadersProject/Content/OurCharacters/Controllers/BPC_ControllerBase.uasset'
+[2024.02.07-13.51.59:468][827]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 1.81 sec)
+[2024.02.07-13.51.59:470][827]AssetCheck: New page: Asset Save: BPC_ControllerBase
+[2024.02.07-13.51.59:470][827]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/OurCharacters/Controllers/BPC_ControllerBase.BPC_ControllerBase
+[2024.02.07-13.52.07:244][745]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.07-13.52.07:244][745]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-13.52.07:244][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-13.53.40:250][782]BlueprintLog: New page: Compile BPC_CharacterHugo
+[2024.02.07-13.53.40:287][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
