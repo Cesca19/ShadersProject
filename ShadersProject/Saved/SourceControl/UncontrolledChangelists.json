@@ -5,6 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/UE Projects/ShadersProject/ShadersProject/Content/Gamemodes/BPC_Gamemode.uasset",
+				"F:/UE Projects/ShadersProject/ShadersProject/Content/OurCharacters/BPC_Character.uasset",
+				"F:/UE Projects/ShadersProject/ShadersProject/Content/OurCharacters/BPC_CharacterBase.uasset",
+				"F:/UE Projects/ShadersProject/ShadersProject/Content/OurCharacters/Controllers/BPC_ControllerBase.uasset",
+				"F:/UE Projects/ShadersProject/ShadersProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"F:/UE Projects/ShadersProject/ShadersProject/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"F:/UE Projects/ShadersProject/ShadersProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter1.uasset",
+				"F:/UE Projects/ShadersProject/ShadersProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"F:/UE Projects/ShadersProject/ShadersProject/Content/OurCharacters/BPC_CharacterTom.uasset",
+				"F:/UE Projects/ShadersProject/ShadersProject/Content/OurCharacters/IMC/IMC_GameDefault.uasset",
+				"F:/UE Projects/ShadersProject/ShadersProject/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"F:/UE Projects/ShadersProject/ShadersProject/Content/OurCharacters/BPC_CharacterFran.uasset",
+				"F:/UE Projects/ShadersProject/ShadersProject/Content/OurCharacters/IA/IA_Dash.uasset",
+				"F:/UE Projects/ShadersProject/ShadersProject/Content/OurCharacters/IMC/IMC_Shooting.uasset",
+				"F:/UE Projects/ShadersProject/ShadersProject/Content/OurCharacters/BPC_CharacterTest.uasset",
+				"F:/UE Projects/ShadersProject/ShadersProject/Content/Components/BPC_HealthComponent.uasset",
 				"C:/Users/fifam/Projets/G-TECH3/Shaders/ShadersProject/ShadersProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
 			]
 		}
