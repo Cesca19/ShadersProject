@@ -74,4 +74,4 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Ignore Saved folder
-ShadersProject/Saved
+ShadersProject/Saved/*
